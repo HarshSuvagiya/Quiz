@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">Name</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="welcome">Welcome</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="enter_name">Please enter name</string>
+    <string name="which_country">Which country flag is it?</string>
+    <string name="select_answer">Please select answer</string>
+</resources>
